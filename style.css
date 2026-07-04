@@ -1,0 +1,26 @@
+body{
+  background:#121212;/*hitam lembut*/
+  color:#e5e7eb;/*teks abu terang*/
+}
+p{
+  color:#e5e7eb;/*teks abu terang*/
+  font-size:18px;
+}
+img{
+  max-width:350px;
+  height:auto;
+  display:block;
+  margin:0 auto;
+}
+h1{
+  color:#e5e7eb;/*teks abu terang*/
+}
+li{
+  color:#e5e7eb;/*teks abu terang*/
+  font-size:16px;
+}
+.bagian-perkenalan {
+  background-color: #1e1e1e;
+  padding: 15px;
+  border-radius: 8px;
+}
